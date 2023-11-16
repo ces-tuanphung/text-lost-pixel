@@ -4,6 +4,7 @@ module.exports = {
       { path: "/lost", name: "landing" },
       { path: "/", name: "test add" },
       { path: "/case1", name: "test delete" },
+      { path: "/test-error", name: "test error" },
     ],
     baseUrl: "http://172.17.0.1:3000",
   },
